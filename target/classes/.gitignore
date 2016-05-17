@@ -1,0 +1,13 @@
+/WEB-INF/
+/applicationContext.xml
+/com/
+/db.properties
+/dispatcher-servlet.xml
+/es.properties
+/esTemplate/
+/freemarkerTemplate/
+/index.jsp
+/logback.xml
+/mybatis-config.xml
+/mybatisConfig/
+/views/
